@@ -1,5 +1,5 @@
 images {
-   image: "e17_logo.png" COMP;
+   image: "e16_logo.png" COMP;
    image: "e17_button_sm.png" COMP;
    image: "e17_button_sm2.png" COMP;
 }
@@ -99,7 +99,7 @@ group {
 	       offset:   80   80;
 	    }
 	    image {
-	       normal: "e17_logo.png";
+	       normal: "e16_logo.png";
 	    }
 	 }
       }
