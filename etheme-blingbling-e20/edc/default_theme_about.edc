@@ -1,7 +1,7 @@
 images {
    image: "e17_button_sm.png" COMP;
    image: "e17_button_sm2.png" COMP;
-   image: "e17_logo.png" COMP;
+   image: "e16_logo.png" COMP;
    image: "e17_about_sky0.png" LOSSY 70;
    image: "e17_about_sky1.png" LOSSY 70;
    image: "e17_about_sky2.png" LOSSY 70;
@@ -132,7 +132,7 @@ group {
 	       style:    "theme_about_style";
 	       min:      0 1;
 	       text: 
-"This is <hilight>BLING BLING</hilight> for E19/E20."
+"This is <hilight>BLING BLING - e16</hilight> for E19/E20."
 "<br><br>"
 "Ported by <hilight>Martin 'mbert' Dietze</hilight> <br> and <br>"
 "<hilight>Stefan 'the_waiter' Uram</hilight> <br>"
@@ -192,7 +192,7 @@ group {
 	       offset:   6    -6;
 	    }
 	    image {
-	       normal:   "e17_logo.png";
+	       normal:   "e16_logo.png";
 	    }
 	 }
       }

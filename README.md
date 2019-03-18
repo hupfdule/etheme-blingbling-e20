@@ -1,3 +1,8 @@
+# <img src="etheme-blingbling-e20/img/e16_logo_small.png" width="32"> BlingBling-16 theme for enlightenment
+
+This fork just replaces the e17 logo with the e16 logo. 
+The remainder of this README is the original upstream README.
+
 # BlingBling theme for enlightenment
 
 BlingBling Enlightenment theme is the old default theme for Enlightenment:

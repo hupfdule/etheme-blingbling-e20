@@ -1,7 +1,7 @@
 images {
    image: "e17_menu_bg_border.png" COMP;
    image: "e17_dialog_watermark.png" COMP;
-   image: "e17_logo.png" COMP;
+   image: "e16_logo.png" COMP;
    image: "e17_menu_bg.png" COMP;
 }
 
@@ -114,7 +114,7 @@ group {
 	       offset:   8    8;
 	    }
 	    image {
-	       normal:   "e17_logo.png";
+	       normal:   "e16_logo.png";
 	    }
 	 }
       }

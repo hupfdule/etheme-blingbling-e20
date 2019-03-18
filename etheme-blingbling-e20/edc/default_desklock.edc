@@ -2,7 +2,7 @@ images {
    image: "e17_brushed.png" COMP;
    image: "e17_sm_reflection_shadow_overlay.png" LOSSY 90;
    image: "e17_entry_cursor.png" COMP;
-   image: "e17_logo.png" COMP;
+   image: "e16_logo.png" COMP;
    image: "e17_gadman_overlay.png" COMP;
    image: "e17_desklock_error.png" COMP;
 }
@@ -52,7 +52,7 @@ group
 	       max: 64 64;
 	       //align: 0.45 0.5;
 	       image {
-		    normal: "e17_logo.png";
+		    normal: "e16_logo.png";
 	       }
 	    }
 	  }

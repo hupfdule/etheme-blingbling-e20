@@ -2,7 +2,7 @@ images {
    image: "e17_menu_bg_border.png" COMP;
    image: "e17_dialog_watermark.png" COMP;
 
-   image: "e17_logo_small.png" COMP;
+   image: "e16_logo_small.png" COMP;
    image: "e17_logo_small_p1.png" COMP;
    image: "e17_logo_small_p2.png" COMP;
    image: "e17_logo_small_p3.png" COMP;
@@ -140,7 +140,7 @@ group {
 	       offset: -9 8;
 	    }
 	    image {
-	       normal: "e17_logo_small.png";
+	       normal: "e16_logo_small.png";
 	    }
 	 }
       }
@@ -377,7 +377,7 @@ group {
 	       offset: -9 8;
 	    }
 	    image {
-	       normal: "e17_logo_small.png";
+	       normal: "e16_logo_small.png";
 	    }
 	 }
       }
@@ -614,7 +614,7 @@ group {
 	       offset: -9 8;
 	    }
 	    image {
-	       normal: "e17_logo_small.png";
+	       normal: "e16_logo_small.png";
 	    }
 	 }
       }
@@ -851,7 +851,7 @@ group {
 	       offset: -9 8;
 	    }
 	    image {
-	       normal: "e17_logo_small.png";
+	       normal: "e16_logo_small.png";
 	    }
 	 }
       }
@@ -1088,7 +1088,7 @@ group {
 	       offset: -9 8;
 	    }
 	    image {
-	       normal: "e17_logo_small.png";
+	       normal: "e16_logo_small.png";
 	    }
 	 }
       }

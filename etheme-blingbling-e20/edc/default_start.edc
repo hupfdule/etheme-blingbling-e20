@@ -1,5 +1,5 @@
 images {
-   image: "e17_logo_small.png" COMP;
+   image: "e16_logo_small.png" COMP;
    image: "e17_logo_small_p1.png" COMP;
    image: "e17_logo_small_p2.png" COMP;
    image: "e17_logo_small_p3.png" COMP;
@@ -35,7 +35,7 @@ group {
 	    aspect: 1.0 1.0;
 	    aspect_preference: BOTH;
 	    image {
-	       normal: "e17_logo_small.png";
+	       normal: "e16_logo_small.png";
 	    }
 	 }
       }
