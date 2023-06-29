@@ -6,7 +6,7 @@ errorExit() {
 }
 
 THEME=blingbling
-PACKAGE=enlightenment-theme-${THEME}-e20
+PACKAGE=enlightenment-theme-${THEME}-e16-e20
 VERSION="`grep 'item:  *"theme/version"' ${THEME}.edc | head -1 | awk '{ print $3 }' | tr -d '";'`"
 echo "$VERSION" | egrep -q '^[0-9]+\.[0-9]+\.[0-9]+$' || errorExit "Error detecting version, got '$VERSION'."
 echo "Building deb for '${THEME}' theme version '${VERSION}'..."
